@@ -1,8 +1,8 @@
-## Namaste-React
+# Namaste-React
 Project Overview
 Namaste-React is an ongoing project aimed at creating a feature-rich React application. The application serves as a foundation for building interactive and dynamic user interfaces using React's component-based architecture.
 
-# Current Status
+#Current Status
 This repository is currently in development. The following features have been implemented so far:
 
 Basic application structure with functional components.
